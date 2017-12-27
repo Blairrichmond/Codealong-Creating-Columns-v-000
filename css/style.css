@@ -114,3 +114,8 @@ img, video, audio {
   line-height: 0;
 
 }
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+}
